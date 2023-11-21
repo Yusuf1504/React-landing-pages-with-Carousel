@@ -1,0 +1,42 @@
+.bg-body-tertiary {
+    background-color: #2C3E50; 
+  }
+  
+
+  .nav-link {
+    color: #ECF0F1;
+    transition: color 0.3s; 
+  }
+  
+ 
+  .nav-link:hover {
+    color: #3498DB; 
+    transform: scale(1.1); 
+  }
+  
+
+  .nav-title {
+    color: #ECF0F1;
+    transition: color 0.3s; 
+  }
+  
+
+  .nav-title:hover {
+    color: #3498DB; 
+  }
+  
+
+  .navbar .btn {
+    background-color: #3498DB;
+    color: #ECF0F1;
+    border: none;
+    transition: background-color 0.3s, color 0.3s; 
+  }
+  
+
+  .navbar .btn:hover {
+    background-color: #2C3E50;
+    color: #ECF0F1; 
+    transform: scale(1.1); 
+  }
+  
